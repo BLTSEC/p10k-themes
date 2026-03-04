@@ -91,7 +91,7 @@ load_theme() {
       c5=183;  c6=116;  c7=189;  c8=240;  c_orange=216
       os_icon_fg=234;  os_icon_bg=183
       prompt_ok_fg=151;  prompt_error_fg=211
-      dir_bg=111;  dir_fg=234;  dir_shortened_fg=189;  dir_anchor_fg=255
+      dir_bg=111;  dir_fg=253;  dir_shortened_fg=189;  dir_anchor_fg=255
       vcs_clean_bg=151;  vcs_modified_bg=223;  vcs_untracked_bg=116
       vcs_conflicted_bg=211;  vcs_loading_bg=240
       status_ok_fg=151;  status_ok_bg=234
@@ -110,7 +110,7 @@ load_theme() {
       c5=183;  c6=116;  c7=189;  c8=240;  c_orange=216
       os_icon_fg=235;  os_icon_bg=183
       prompt_ok_fg=150;  prompt_error_fg=210
-      dir_bg=111;  dir_fg=235;  dir_shortened_fg=189;  dir_anchor_fg=255
+      dir_bg=111;  dir_fg=253;  dir_shortened_fg=189;  dir_anchor_fg=255
       vcs_clean_bg=150;  vcs_modified_bg=223;  vcs_untracked_bg=116
       vcs_conflicted_bg=210;  vcs_loading_bg=240
       status_ok_fg=150;  status_ok_bg=235
@@ -129,7 +129,7 @@ load_theme() {
       c5=182;  c6=115;  c7=189;  c8=242;  c_orange=216
       os_icon_fg=236;  os_icon_bg=182
       prompt_ok_fg=150;  prompt_error_fg=174
-      dir_bg=111;  dir_fg=236;  dir_shortened_fg=189;  dir_anchor_fg=255
+      dir_bg=111;  dir_fg=253;  dir_shortened_fg=189;  dir_anchor_fg=255
       vcs_clean_bg=150;  vcs_modified_bg=186;  vcs_untracked_bg=115
       vcs_conflicted_bg=174;  vcs_loading_bg=242
       status_ok_fg=150;  status_ok_bg=236
@@ -261,7 +261,7 @@ load_theme() {
       c5=176;  c6=73;   c7=249;  c8=241;  c_orange=209
       os_icon_fg=236;  os_icon_bg=75
       prompt_ok_fg=114;  prompt_error_fg=204
-      dir_bg=75;  dir_fg=236;  dir_shortened_fg=249;  dir_anchor_fg=255
+      dir_bg=75;  dir_fg=253;  dir_shortened_fg=249;  dir_anchor_fg=255
       vcs_clean_bg=114;  vcs_modified_bg=180;  vcs_untracked_bg=73
       vcs_conflicted_bg=204;  vcs_loading_bg=241
       status_ok_fg=114;  status_ok_bg=236
@@ -280,7 +280,7 @@ load_theme() {
       c5=141;  c6=117;  c7=189;  c8=240;  c_orange=215
       os_icon_fg=189;  os_icon_bg=111
       prompt_ok_fg=149;  prompt_error_fg=210
-      dir_bg=111;  dir_fg=234;  dir_shortened_fg=189;  dir_anchor_fg=255
+      dir_bg=111;  dir_fg=253;  dir_shortened_fg=189;  dir_anchor_fg=255
       vcs_clean_bg=149;  vcs_modified_bg=179;  vcs_untracked_bg=117
       vcs_conflicted_bg=210;  vcs_loading_bg=240
       status_ok_fg=149;  status_ok_bg=234
@@ -298,7 +298,7 @@ load_theme() {
       c5=141;  c6=117;  c7=189;  c8=241;  c_orange=215
       os_icon_fg=189;  os_icon_bg=111
       prompt_ok_fg=149;  prompt_error_fg=210
-      dir_bg=111;  dir_fg=235;  dir_shortened_fg=189;  dir_anchor_fg=255
+      dir_bg=111;  dir_fg=253;  dir_shortened_fg=189;  dir_anchor_fg=255
       vcs_clean_bg=149;  vcs_modified_bg=179;  vcs_untracked_bg=117
       vcs_conflicted_bg=210;  vcs_loading_bg=241
       status_ok_fg=149;  status_ok_bg=235
@@ -317,7 +317,7 @@ load_theme() {
       c5=141;  c6=81;   c7=253;  c8=241;  c_orange=208
       os_icon_fg=253;  os_icon_bg=197
       prompt_ok_fg=148;  prompt_error_fg=197
-      dir_bg=81;  dir_fg=235;  dir_shortened_fg=253;  dir_anchor_fg=255
+      dir_bg=81;  dir_fg=253;  dir_shortened_fg=253;  dir_anchor_fg=255
       vcs_clean_bg=148;  vcs_modified_bg=208;  vcs_untracked_bg=81
       vcs_conflicted_bg=197;  vcs_loading_bg=241
       status_ok_fg=148;  status_ok_bg=235
@@ -336,7 +336,7 @@ load_theme() {
       c5=182;  c6=152;  c7=189;  c8=240;  c_orange=216
       os_icon_fg=234;  os_icon_bg=182
       prompt_ok_fg=115;  prompt_error_fg=204
-      dir_bg=182;  dir_fg=234;  dir_shortened_fg=189;  dir_anchor_fg=255
+      dir_bg=182;  dir_fg=234;  dir_shortened_fg=236;  dir_anchor_fg=234
       vcs_clean_bg=115;  vcs_modified_bg=216;  vcs_untracked_bg=152
       vcs_conflicted_bg=204;  vcs_loading_bg=240
       status_ok_fg=115;  status_ok_bg=234
@@ -374,7 +374,7 @@ load_theme() {
       c5=103;  c6=66;   c7=187;  c8=240;  c_orange=215
       os_icon_fg=187;  os_icon_bg=110
       prompt_ok_fg=101;  prompt_error_fg=131
-      dir_bg=110;  dir_fg=234;  dir_shortened_fg=187;  dir_anchor_fg=255
+      dir_bg=110;  dir_fg=253;  dir_shortened_fg=187;  dir_anchor_fg=255
       vcs_clean_bg=101;  vcs_modified_bg=143;  vcs_untracked_bg=66
       vcs_conflicted_bg=131;  vcs_loading_bg=240
       status_ok_fg=101;  status_ok_bg=234
@@ -393,7 +393,7 @@ load_theme() {
       c5=175;  c6=108;  c7=187;  c8=241;  c_orange=174
       os_icon_fg=236;  os_icon_bg=109
       prompt_ok_fg=144;  prompt_error_fg=174
-      dir_bg=109;  dir_fg=236;  dir_shortened_fg=187;  dir_anchor_fg=255
+      dir_bg=109;  dir_fg=253;  dir_shortened_fg=187;  dir_anchor_fg=255
       vcs_clean_bg=144;  vcs_modified_bg=180;  vcs_untracked_bg=108
       vcs_conflicted_bg=174;  vcs_loading_bg=241
       status_ok_fg=144;  status_ok_bg=236
@@ -412,7 +412,7 @@ load_theme() {
       c5=183;  c6=116;  c7=249;  c8=240;  c_orange=209
       os_icon_fg=233;  os_icon_bg=75
       prompt_ok_fg=149;  prompt_error_fg=204
-      dir_bg=75;  dir_fg=233;  dir_shortened_fg=249;  dir_anchor_fg=255
+      dir_bg=75;  dir_fg=253;  dir_shortened_fg=249;  dir_anchor_fg=255
       vcs_clean_bg=149;  vcs_modified_bg=215;  vcs_untracked_bg=116
       vcs_conflicted_bg=204;  vcs_loading_bg=240
       status_ok_fg=149;  status_ok_bg=233
@@ -431,7 +431,7 @@ load_theme() {
       c5=176;  c6=117;  c7=255;  c8=241;  c_orange=209
       os_icon_fg=255;  os_icon_bg=111
       prompt_ok_fg=150;  prompt_error_fg=204
-      dir_bg=111;  dir_fg=236;  dir_shortened_fg=255;  dir_anchor_fg=255
+      dir_bg=111;  dir_fg=253;  dir_shortened_fg=255;  dir_anchor_fg=255
       vcs_clean_bg=150;  vcs_modified_bg=221;  vcs_untracked_bg=117
       vcs_conflicted_bg=204;  vcs_loading_bg=241
       status_ok_fg=150;  status_ok_bg=236
