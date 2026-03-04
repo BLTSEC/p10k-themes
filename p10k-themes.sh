@@ -87,17 +87,17 @@ load_theme() {
     "Catppuccin Mocha")
       # Blue #89b4fa, Green #a6e3a1, Yellow #f9e2af, Red #f38ba8
       # Mauve #cba6f7, Peach #fab387, Teal #94e2d5
-      c0=234;  c1=211;  c2=150;  c3=223;  c4=111
-      c5=183;  c6=115;  c7=189;  c8=240;  c_orange=216
+      c0=234;  c1=211;  c2=151;  c3=223;  c4=111
+      c5=183;  c6=116;  c7=189;  c8=240;  c_orange=216
       os_icon_fg=234;  os_icon_bg=183
-      prompt_ok_fg=150;  prompt_error_fg=211
+      prompt_ok_fg=151;  prompt_error_fg=211
       dir_bg=111;  dir_fg=234;  dir_shortened_fg=189;  dir_anchor_fg=255
-      vcs_clean_bg=150;  vcs_modified_bg=223;  vcs_untracked_bg=115
+      vcs_clean_bg=151;  vcs_modified_bg=223;  vcs_untracked_bg=116
       vcs_conflicted_bg=211;  vcs_loading_bg=240
-      status_ok_fg=150;  status_ok_bg=234
+      status_ok_fg=151;  status_ok_bg=234
       status_error_fg=223;  status_error_bg=211
       exec_time_fg=234;  exec_time_bg=216
-      bg_jobs_fg=115;  bg_jobs_bg=234
+      bg_jobs_fg=116;  bg_jobs_bg=234
       gap_fg=240
       time_fg=189;  time_bg=240
       context_fg=216;  context_bg=234;  context_root_fg=211
@@ -107,16 +107,16 @@ load_theme() {
       # Blue #8aadf4, Green #a6da95, Yellow #eed49f, Red #ed8796
       # Mauve #c6a0f6, Peach #f5a97f, Teal #8bd5ca
       c0=235;  c1=210;  c2=150;  c3=223;  c4=111
-      c5=183;  c6=115;  c7=189;  c8=240;  c_orange=216
+      c5=183;  c6=116;  c7=189;  c8=240;  c_orange=216
       os_icon_fg=235;  os_icon_bg=183
       prompt_ok_fg=150;  prompt_error_fg=210
       dir_bg=111;  dir_fg=235;  dir_shortened_fg=189;  dir_anchor_fg=255
-      vcs_clean_bg=150;  vcs_modified_bg=223;  vcs_untracked_bg=115
+      vcs_clean_bg=150;  vcs_modified_bg=223;  vcs_untracked_bg=116
       vcs_conflicted_bg=210;  vcs_loading_bg=240
       status_ok_fg=150;  status_ok_bg=235
       status_error_fg=223;  status_error_bg=210
       exec_time_fg=235;  exec_time_bg=216
-      bg_jobs_fg=115;  bg_jobs_bg=235
+      bg_jobs_fg=116;  bg_jobs_bg=235
       gap_fg=240
       time_fg=189;  time_bg=240
       context_fg=216;  context_bg=235;  context_root_fg=210
@@ -182,20 +182,20 @@ load_theme() {
     "Gruvbox Dark")
       # Blue #458588, Green #b8bb26, Yellow #fabd2f, Red #fb4934
       # Purple #d3869b, Aqua #8ec07c, Orange #fe8019
-      c0=235;  c1=167;  c2=142;  c3=214;  c4=109
+      c0=235;  c1=203;  c2=142;  c3=214;  c4=66
       c5=175;  c6=108;  c7=223;  c8=241;  c_orange=208
       os_icon_fg=223;  os_icon_bg=66
-      prompt_ok_fg=142;  prompt_error_fg=167
+      prompt_ok_fg=142;  prompt_error_fg=203
       dir_bg=66;  dir_fg=223;  dir_shortened_fg=187;  dir_anchor_fg=223
       vcs_clean_bg=142;  vcs_modified_bg=214;  vcs_untracked_bg=108
-      vcs_conflicted_bg=167;  vcs_loading_bg=241
+      vcs_conflicted_bg=203;  vcs_loading_bg=241
       status_ok_fg=142;  status_ok_bg=235
-      status_error_fg=214;  status_error_bg=167
+      status_error_fg=214;  status_error_bg=203
       exec_time_fg=235;  exec_time_bg=214
       bg_jobs_fg=108;  bg_jobs_bg=235
       gap_fg=241
       time_fg=223;  time_bg=241
-      context_fg=208;  context_bg=235;  context_root_fg=167
+      context_fg=208;  context_bg=235;  context_root_fg=203
       ;;
 
     "Gruvbox Light")
@@ -276,38 +276,38 @@ load_theme() {
     "Tokyo Night")
       # Blue #7aa2f7, Green #9ece6a, Yellow #e0af68, Red #f7768e
       # Magenta #bb9af7, Cyan #7dcfff, Orange #ff9e64
-      c0=234;  c1=204;  c2=149;  c3=179;  c4=111
+      c0=234;  c1=210;  c2=149;  c3=179;  c4=111
       c5=141;  c6=117;  c7=189;  c8=240;  c_orange=215
       os_icon_fg=189;  os_icon_bg=111
-      prompt_ok_fg=149;  prompt_error_fg=204
+      prompt_ok_fg=149;  prompt_error_fg=210
       dir_bg=111;  dir_fg=234;  dir_shortened_fg=189;  dir_anchor_fg=255
       vcs_clean_bg=149;  vcs_modified_bg=179;  vcs_untracked_bg=117
-      vcs_conflicted_bg=204;  vcs_loading_bg=240
+      vcs_conflicted_bg=210;  vcs_loading_bg=240
       status_ok_fg=149;  status_ok_bg=234
-      status_error_fg=179;  status_error_bg=204
+      status_error_fg=179;  status_error_bg=210
       exec_time_fg=234;  exec_time_bg=179
       bg_jobs_fg=117;  bg_jobs_bg=234
       gap_fg=240
       time_fg=189;  time_bg=240
-      context_fg=215;  context_bg=234;  context_root_fg=204
+      context_fg=215;  context_bg=234;  context_root_fg=210
       ;;
 
     "Tokyo Night Storm")
       # Same palette, slightly lighter background
-      c0=235;  c1=204;  c2=149;  c3=179;  c4=111
+      c0=235;  c1=210;  c2=149;  c3=179;  c4=111
       c5=141;  c6=117;  c7=189;  c8=241;  c_orange=215
       os_icon_fg=189;  os_icon_bg=111
-      prompt_ok_fg=149;  prompt_error_fg=204
+      prompt_ok_fg=149;  prompt_error_fg=210
       dir_bg=111;  dir_fg=235;  dir_shortened_fg=189;  dir_anchor_fg=255
       vcs_clean_bg=149;  vcs_modified_bg=179;  vcs_untracked_bg=117
-      vcs_conflicted_bg=204;  vcs_loading_bg=241
+      vcs_conflicted_bg=210;  vcs_loading_bg=241
       status_ok_fg=149;  status_ok_bg=235
-      status_error_fg=179;  status_error_bg=204
+      status_error_fg=179;  status_error_bg=210
       exec_time_fg=235;  exec_time_bg=179
       bg_jobs_fg=117;  bg_jobs_bg=235
       gap_fg=241
       time_fg=189;  time_bg=241
-      context_fg=215;  context_bg=235;  context_root_fg=204
+      context_fg=215;  context_bg=235;  context_root_fg=210
       ;;
 
     "Monokai")
@@ -371,16 +371,16 @@ load_theme() {
       # Blue #7e9cd8, Green #76946a, Yellow #c0a36e, Red #c34043
       # Magenta #957fb8, Cyan #6a9589, Orange #ffa066
       c0=234;  c1=131;  c2=107;  c3=179;  c4=110
-      c5=139;  c6=72;   c7=187;  c8=240;  c_orange=215
+      c5=139;  c6=66;   c7=187;  c8=240;  c_orange=215
       os_icon_fg=187;  os_icon_bg=110
       prompt_ok_fg=107;  prompt_error_fg=131
       dir_bg=110;  dir_fg=234;  dir_shortened_fg=187;  dir_anchor_fg=255
-      vcs_clean_bg=107;  vcs_modified_bg=179;  vcs_untracked_bg=72
+      vcs_clean_bg=107;  vcs_modified_bg=179;  vcs_untracked_bg=66
       vcs_conflicted_bg=131;  vcs_loading_bg=240
       status_ok_fg=107;  status_ok_bg=234
       status_error_fg=179;  status_error_bg=131
       exec_time_fg=234;  exec_time_bg=179
-      bg_jobs_fg=72;  bg_jobs_bg=234
+      bg_jobs_fg=66;  bg_jobs_bg=234
       gap_fg=240
       time_fg=187;  time_bg=240
       context_fg=215;  context_bg=234;  context_root_fg=131
@@ -409,16 +409,16 @@ load_theme() {
       # Blue #59c2ff, Green #c2d94c, Yellow #ffb454, Red #f07178
       # Magenta #d2a6ff, Cyan #95e6cb, Orange #ff8f40
       c0=233;  c1=204;  c2=149;  c3=215;  c4=75
-      c5=183;  c6=115;  c7=249;  c8=240;  c_orange=208
+      c5=183;  c6=116;  c7=249;  c8=240;  c_orange=208
       os_icon_fg=233;  os_icon_bg=75
       prompt_ok_fg=149;  prompt_error_fg=204
       dir_bg=75;  dir_fg=233;  dir_shortened_fg=249;  dir_anchor_fg=255
-      vcs_clean_bg=149;  vcs_modified_bg=215;  vcs_untracked_bg=115
+      vcs_clean_bg=149;  vcs_modified_bg=215;  vcs_untracked_bg=116
       vcs_conflicted_bg=204;  vcs_loading_bg=240
       status_ok_fg=149;  status_ok_bg=233
       status_error_fg=215;  status_error_bg=204
       exec_time_fg=233;  exec_time_bg=215
-      bg_jobs_fg=115;  bg_jobs_bg=233
+      bg_jobs_fg=116;  bg_jobs_bg=233
       gap_fg=240
       time_fg=249;  time_bg=240
       context_fg=208;  context_bg=233;  context_root_fg=204
