@@ -391,9 +391,9 @@ load_theme() {
       # Purple #d699b6, Aqua #83c092, Orange #e69875
       c0=236;  c1=174;  c2=144;  c3=180;  c4=109
       c5=175;  c6=108;  c7=187;  c8=241;  c_orange=174
-      os_icon_fg=187;  os_icon_bg=109
+      os_icon_fg=236;  os_icon_bg=109
       prompt_ok_fg=144;  prompt_error_fg=174
-      dir_bg=109;  dir_fg=187;  dir_shortened_fg=187;  dir_anchor_fg=187
+      dir_bg=109;  dir_fg=236;  dir_shortened_fg=238;  dir_anchor_fg=236
       vcs_clean_bg=144;  vcs_modified_bg=180;  vcs_untracked_bg=108
       vcs_conflicted_bg=174;  vcs_loading_bg=241
       status_ok_fg=144;  status_ok_bg=236
