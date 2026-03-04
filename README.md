@@ -2,7 +2,7 @@
 
 Apply popular terminal color themes to your [Powerlevel10k](https://github.com/romkatv/powerlevel10k) prompt with a single command.
 
-<!-- ![p10k-themes banner](assets/banner.png) -->
+![p10k-themes demo](assets/demo.gif)
 
 One script. 20 themes. No layout changes — just colors.
 
